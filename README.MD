@@ -1,6 +1,6 @@
 # Module 6 Assignment: Fashion MNIST Classification
 
-This is project is about creating a Convolutional Neural Network (CNN) at Microsoft Ai for image classification on the popular Fashion MNIST datasets from keras library. The datasets is made of about 60,000 28 x 28 grayscale images of 10 fashion category along with a test data of 10,000 images. The model will be trained using dataset from the Fashion MNIST datasets. After the training, the model will be evaluated using random test images from the test data to make classification and compare predicted label and true labels.
+This project is about creating a Convolutional Neural Network (CNN) at Microsoft AI for image classification on the popular Fashion MNIST datasets from keras library. The datasets is made of about 60,000 28 x 28 grayscale images of 10 fashion category along with a test data of 10,000 images. The model will be trained using dataset from the Fashion MNIST datasets. After the training, the model will be evaluated using random test images from the test data to make classification and compare predicted label and true labels.
 
 The classes are:
 
