@@ -29,7 +29,7 @@ Label 	Description
 - **Lanuguage Stack**: The entire program was written using Python programming langguage and Jupyter Notebook.
 
 ## GitHub Repository
-1. 
+1. https://github.com/Onyedikachi-E/fashion_mnist_classification
 
 
 ## Packages Used in the project
